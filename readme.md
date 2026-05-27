@@ -2,6 +2,8 @@
 
 **...tell you some elite ball knowledge**
 
+<img width="551" height="353" alt="wise rat being dumb" src="https://github.com/user-attachments/assets/3a5415c7-2fc2-43de-b3cf-b39997afccd3" />
+
 ## Usage:
 
 Run with no arguments to receive wisdom:
